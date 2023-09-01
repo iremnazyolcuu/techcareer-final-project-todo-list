@@ -3,7 +3,7 @@
 
 # ToDo List App | Spring Boot - React
 ### Overview
-Todo List Application with a Front-End Developed in React and a Back-End Built with Spring Boot.
+Todo List Application with React-based frontend and Spring Boot-powered backend.
 
 ---
 
