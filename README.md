@@ -40,16 +40,16 @@
 ## Docker Deployment
 
 STEP 1
-*`npx create-react-app frontend`
-*`cd frontend`
-*`npm star`
-*`code .`
+* `npx create-react-app frontend`
+* `cd frontend`
+* `npm star`
+* `code .`
 
 STEP 2
-*`npm i`
+* `npm i`
 
 STEP 3
-*`npm install axios`
-*`npm install bootstrap --save`
-*`npm install node-sass --save`
+* `npm install axios`
+* `npm install bootstrap --save`
+* `npm install node-sass --save`
 
