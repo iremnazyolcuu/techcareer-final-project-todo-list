@@ -28,7 +28,6 @@
 ## Database
 - H2 Database
 - MySQL
-- 
 ---
 
 ## Dependencies
