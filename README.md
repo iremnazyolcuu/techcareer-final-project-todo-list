@@ -8,6 +8,7 @@ Todo List Application with React-based frontend and Spring Boot-powered backend.
 ---
 
 ### Requirements
+To run the project, you need the following requirements:
 - Java 17
 - Node js
 - IntelliJ IDEA
@@ -35,6 +36,22 @@ Todo List Application with React-based frontend and Spring Boot-powered backend.
 ## Database
 - H2 Database
 - MySQL
+---
+
+## API Endpoints
+
+The ToDoList Application provides the following API endpoints:
+
+- `POST /api/todos/create`: Add a new todo.
+- `GET  /api/todos/list/{id}`: List the specific todo by ID.
+- `GET  /api/todos/list/all`: List all of the todos.
+- `PUT  /api/todos/update/{id}`: Update a specific todo by ID.
+- `DELETE /api/todos/delete/{id}`: Delete a specific todo by ID.
+- `DELETE /api/todos/delete/all`: Delete all of the todos.
+- `PATCH /api/todos/complete/{id}`: Change the status to complete for the specific todo with ID.
+- `PATCH /api/todos/incomplete/{id}`: Change the status to incomplete for the specific todo with ID.
+- `GET  /api/todos/completed/{completed}`: List only completed/incompleted todos based on their boolean {completed} status.
+- `DELETE /api/todos/delete/completed`: Delete only completed todos.
 ---
 
 ## Dependencies
