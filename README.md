@@ -1,7 +1,7 @@
 ## https://github.com/iremnazyolcuu/
 ---
 
-# ToDo List App | Spring Boot - React
+# ToDo List App | Spring Boot & React
 ### Overview
 Todo List Application with React-based frontend and Spring Boot-powered backend.
 
